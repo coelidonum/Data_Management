@@ -30,6 +30,13 @@ happiness_2016['Year'] = "2016"
 happiness_2017['Year'] = "2017"
 
 
+
+#--------------------------change different column names-------------
+
+happiness_2015.rename(columns = { 'Economy (GDP per Capita)': 'Economy',  'Health (Life Expectancy)': 'Health Life Expectancy', 'Trust (Government Corruption)': 'Trust in Government'}, inplace=True)
+happiness_2016.rename(columns = {  'Economy (GDP per Capita)': 'Economy', 'Health (Life Expectancy)': 'Health Life Expectancy', 'Trust (Government Corruption)': 'Trust in Government'}, inplace = True)
+happiness_2017.rename(columns = {  'Happiness_Rank': 'Happiness Rank', 'Economy_GDP_per_Capita': 'Economy','Happiness_Score': 'Happiness Score',  'Health_Life_Expectancy': 'Health Life Expectancy', 'Trust_Government_Corruption': 'Trust in Government',  'Dystopia_Residual': 'Dystopia Residual' }, inplace = True)
+
 #---------one dataframe--------------------------------------
 
 records = happiness_2015.append([happiness_2016, happiness_2017], ignore_index=True)
@@ -45,16 +52,6 @@ happiness = db.happiness.insert_many(records)
 
 #-----------aggregate--------------------------------------------------
 
-
-
-#happiness = db.happiness.aggregate([
-#     {'$group': { '_id': "$Country"}},
-#     {"$sort":  { "_id":1}
-#     {'$lookup': {
-#            'from': 'data_management_collection', 
-#            'localField': 'Country', 
-#            'foreignField': 'Country', 
-#            'as': 'CountryFeatures'}}])
 
 happiness = db.happiness.aggregate([
      {'$group': 
