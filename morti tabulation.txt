@@ -1,0 +1,141 @@
+1000	All causes	AAA
+1001	Certain infectious and parasitic diseases	A00-A99
+1002	Cholera	A00
+1003	Diarrhoea and gastroenteritis of presumed infectious origin	A09
+1004	Other intestinal infectious diseases	A01-A08
+1005	Respiratory tuberculosis	A15-A16
+1006	Other tuberculosis	A17-A19
+1007	Plague	A20
+1008	Tetanus	A33-A35
+1009	Diphtheria	A36
+1010	Whooping cough	A37
+1011	Meningococcal infection	A39
+1012	Septicaemia	A40-A41
+1013	Infections with a predominantly sexual mode of transmission	A50-A64
+1014	Acute poliomyelitis	A80
+1015	Rabies	A82
+1016	Yellow fever	A95
+1017	Other arthropod-borne viral fevers and viral haemorrhagic fevers	A90-A94
+1017	Other arthropod-borne viral fevers and viral haemorrhagic fevers	A96-A99
+1018	Measles	B05
+1019	Viral hepatitis	B15-B19
+1020	Human immunodeficiency virus [HIV] disease	B20-B24
+1021	Malaria	B50-B54
+1022	Leishmaniasis	B55
+1023	Trypanosomiasis	B56-B57
+1024	Schistosomiasis	B65
+1025	Remainder of certain infectious and parasitic diseases	A21-A32
+1025	Remainder of certain infectious and parasitic diseases	A42-A49
+1025	Remainder of certain infectious and parasitic diseases	A38
+1025	Remainder of certain infectious and parasitic diseases	B99
+1025	Remainder of certain infectious and parasitic diseases	B66-B94
+1025	Remainder of certain infectious and parasitic diseases	B58-B64
+1025	Remainder of certain infectious and parasitic diseases	B25-B49
+1025	Remainder of certain infectious and parasitic diseases	B06-B09
+1025	Remainder of certain infectious and parasitic diseases	B00-B04
+1025	Remainder of certain infectious and parasitic diseases	A83-A89
+1025	Remainder of certain infectious and parasitic diseases	A81
+1025	Remainder of certain infectious and parasitic diseases	A65-A79
+1026	Neoplasms	C00-D48
+1027	"Malignant neoplasm of lip, oral cavity and pharynx"	C00-C14
+1028	Malignant neoplasm of oesophagus	C15
+1029	Malignant neoplasm of stomach	C16
+1030	"Malignant neoplasm of colon, rectum and anus"	C18-C21
+1031	Malignant neoplasm of liver and intrahepatic bile ducts	C22
+1032	Malignant neoplasm of pancreas	C25
+1033	Malignant neoplasm of larynx	C32
+1034	Malignant neoplasm of trachea	C33-C34
+1035	Malignant melanoma of skin	C43
+1036	Malignant neoplasm of breast	C50
+1037	Malignant neoplasm of cervix uteri	C53
+1038	Malignant neoplasm of other and unspecified parts of uterus	C54-C55
+1039	Malignant neoplasm of ovary	C56
+1040	Malignant neoplasm of prostate	C61
+1041	Malignant neoplasm of bladder	C67
+1042	Malignant neoplasm of meninges	C70-C72
+1043	Non-Hodgkin's lymphoma	C82-C85
+1044	Multiple myeloma and malignant plasma cell neoplasms	C90
+1045	Leukaemia	C91-C95
+1046	Remainder of malignant neoplasms	C17
+1046	Remainder of malignant neoplasms	C41
+1046	Remainder of malignant neoplasms	C26-C31
+1046	Remainder of malignant neoplasms	C23-C24
+1046	Remainder of malignant neoplasms	C96-C97
+1046	Remainder of malignant neoplasms	C88
+1046	Remainder of malignant neoplasms	C73-C81
+1046	Remainder of malignant neoplasms	C68-C69
+1046	Remainder of malignant neoplasms	C62-C66
+1046	Remainder of malignant neoplasms	C57-C60
+1046	Remainder of malignant neoplasms	C51-C52
+1046	Remainder of malignant neoplasms	C44-C49
+1046	Remainder of malignant neoplasms	C37-C41
+1047	Remainder of neoplasms	D00-D48
+1048	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	D50-D89
+1049	Anaemias	D50-D64
+1050	Remainder of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	D65-D89
+1051	Endocrine	E00-E88
+1052	Diabetes mellitus	E10-E14
+1053	Malnutrition	E40-E46
+1054	Remainder of endocrine	E00-E07
+1054	Remainder of endocrine	E50-E88
+1054	Remainder of endocrine	E15-E34
+1055	Mental and behavioural disorders	F01-F99
+1056	Mental and behavioural disorders due to psychoactive substance use	F10-F19
+1057	Remainder of mental and behavioural disorders	F20-F99
+1058	Diseases of the nervous system	G00-G98
+1059	Meningitis	G00
+1060	Alzheimer's disease	G30
+1061	Remainder of diseases of the nervous system	G04-G25
+1061	Remainder of diseases of the nervous system	G31-G98
+1062	Diseases of the eye and adnexa	H00-H57
+1063	Diseases of the ear and mastoid process	H60-H93
+1064	Diseases of the circulatory system	I00-I99
+1065	Acute rheumatic fever and chronic rheumatic heart diseases	I00-I09
+1066	Hypertensive diseases	I10-I13
+1067	Ischaemic heart diseases	I20-I25
+1068	Other heart diseases	I26-I51
+1069	Cerebrovascular diseases	I60-I69
+1070	Atherosclerosis	I70
+1071	Remainder of diseases of the circulatory system	I71-I99
+1072	Diseases of the respiratory system	J00-J98
+1073	Influenza	J10-J11
+1074	Pneumonia	J12-J18
+1075	Other acute lower respiratory infections	J20-J22
+1076	Chronic lower respiratory diseases	J40-J47
+1077	Remainder of diseases of the respiratory system	J00-J06
+1077	Remainder of diseases of the respiratory system	J30-J39
+1077	Remainder of diseases of the respiratory system	J60-J98
+1078	Diseases of the digestive system	K00-K92
+1079	Gastric and duodenal ulcer	K25-K27
+1080	Diseases of the liver	K70-K76
+1081	Remainder of diseases of the digestive system	K00-K22
+1081	Remainder of diseases of the digestive system	K28-K66
+1081	Remainder of diseases of the digestive system	K80-K92
+1082	Diseases of the skin and subcutaneous tissue	L00-L98
+1083	Diseases of the musculoskeletal system and connective tissue	M00-M99
+1084	Diseases of the genitourinary system	N00-N98
+1085	Glomerular and renal tubulo-interstitial diseases	N00-N15
+1086	Remainder of diseases of the genitourinary system	N17-N98
+1087	Pregnancy	O00-O99
+1088	Pregnancy with abortive outcome	O00-O07
+1089	Other direct obstetric deaths	O10-O92
+1090	Indirect obstetric deaths	O98-O99
+1091	Remainder of pregnancy	O95-O97
+1092	Certain conditions originating in the perinatal period	P00-P96
+1093	Congenital malformations	Q00-Q99
+1094	Symptoms	R00-R99
+1095	External causes of morbidity and mortality	V01-Y89
+1096	Transport accidents	V01-V99
+1097	Falls	W00-W19
+1098	Accidental drowning and submersion	W65-W74
+1099	Exposure to smoke	X00-X09
+1100	Accidental poisoning by and exposure to noxious substances	X40-X49
+1101	Intentional self-harm	X60-X84
+1102	Assault	X85-X99
+1102	Assault	Y00-Y09
+1103	All other external causes	W20-W64
+1103	All other external causes	W75-W99
+1103	All other external causes	Y10-Y89
+1103	All other external causes	Y10-Y89
+1103	All other external causes	X50-X59
+1103	All other external causes	X10-X39
